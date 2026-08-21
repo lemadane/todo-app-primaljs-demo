@@ -3,7 +3,7 @@
 A lightweight, modern full-stack Todo application built with a **Go** backend using the **Chi** router and pure-Go **SQLite** driver, coupled with a reactive frontend built using **PrimalJS**.
 
 <p align="center">
-  <img src="./todo-app.png" alt="Todo App Preview" width="100%" style="border-radius: 12px;" />
+  <img src="./todo-app.png" alt="Todo App Preview" width="50%" style="border-radius: 12px;" />
 </p>
 
 ---
