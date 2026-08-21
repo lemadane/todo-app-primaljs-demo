@@ -1,0 +1,29 @@
+# Compiled binaries & build artifacts
+/todo-app
+*.exe
+*.exe.test
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# SQLite database directory & files
+/data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment / local configs
+.env
+.env.local
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
